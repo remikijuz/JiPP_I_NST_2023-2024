@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\remig\Desktop\JiPP\Lab1 Select CMakeLists.txt
