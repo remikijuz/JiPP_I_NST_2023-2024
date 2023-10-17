@@ -25,9 +25,12 @@ p=(a+b+c)/2
 pole: S = sqrt(p(p-a)(p-b)(p-c))
 promień: R = S/p
 
+Zadanie 24.
+Dane są cztery liczby całkowite a,b,c,d. Znaleźć wśród nich liczbę największą i wydrukować
+jej wartość i pozycję przyjmując, że dla a(pozycja=1), b(pozycja=2) itd. (nie wprowadzać
+zmiennej indeksowanej).
 
-
- */
+*/
 
 
 int main() {
@@ -36,7 +39,7 @@ int main() {
     printf("Wybierz zadanie które chcesz sprawdzić: 12, 21, 23, 24.\n");
     scanf ("%d", &zadanie);
 
-    while (zadanie != 12 && zadanie != 21 && zadanie != 22 && zadanie != 23 && zadanie != 24 && zadanie != 25 ) {
+    while (zadanie != 12 && zadanie != 21 && zadanie != 23 && zadanie != 24 ) {
         printf("Proszę wybrać zadanie wpisując jedną z liczb: 12, 21, 23, 24.\n");
         scanf ("%d", &zadanie);
     }
@@ -158,8 +161,33 @@ int main() {
 
         // Zadanie 24
         case 24:
-            // code block
-        break;
+
+            printf("Zadanie 24. Wczytane zostaną cztery liczby całkowite a1, b2, c3, d4. Program znajdzie największą z nich i wypiszę jej wartość i pozycje.\n");
+            int a1, b2, c3, d4;
+
+
+            printf("Podaj cztery liczby calkowite: ");
+            scanf("%d %d %d %d", &a1, &b2, &c3, &d4);
+
+            int najwieksza = a1;
+            int pozycja = 1;
+
+            if (b2 > najwieksza) {
+                najwieksza = b2;
+                pozycja = 2;
+            }
+            if (c3 > najwieksza) {
+                najwieksza = c3;
+                pozycja = 3;
+            }
+            if (d4 > najwieksza) {
+                najwieksza = d4;
+                pozycja = 4;
+            }
+
+            printf("Największą liczbą jest %d i znajduje się na pozycji %d.\n", najwieksza, pozycja);
+
+            break;
         }
 
     return 0;
