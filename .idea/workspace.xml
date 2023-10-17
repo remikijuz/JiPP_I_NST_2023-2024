@@ -18,42 +18,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d151c92-c0d8-4213-bd51-1e64bf0885b4" name="Changes" comment="12, 21, 23">
-      <change afterPath="$PROJECT_DIR$/Lab_1/Zad_22/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_1/Zad_25/main.c" afterDir="false" />
+    <list default="true" id="4d151c92-c0d8-4213-bd51-1e64bf0885b4" name="Changes" comment="Another commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/JiPP_Lab1_niestac_2023_2024.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Zad_12,21,23,24/JiPP_Lab1_niestac_2023_2024.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Zad_12,21,23,24/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-5ba82aa320a31ea69ee6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-f004398ba01343e5439b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-214302df2e175afdf6c6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-16T11-43-59-0038.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/reply/target-Lab1-Debug-f426f7371e3f501cd298.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1a91e91f1c114e4c2010.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Zad_12,21,23,24/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/Zad_12,21,23,24/JiPP_Lab1_niestac_2023_2024.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/JiPP_Lab1_niestac_2023_2024.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/Zad_12,21,23,24/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/Zad_22/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Zad_22/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/Zad_25/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Zad_25/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/main.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +90,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "proofread",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
     "structure.view.defaults.are.configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -128,16 +98,17 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\remig\CLionProjects\JiPP_I_NST_2023-2024\Lab_1\Zad_25" />
+      <recent name="C:\Users\remig\CLionProjects\JiPP_I_NST_2023-2024\Lab_1\Zad_22" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\remig\CLionProjects\JiPP_I_NST_2023-2024\Lab_1" />
       <recent name="C:\Users\remig\CLionProjects\JiPP_I_NST_2023-2024\Lab_1\Zad_12,21,23,24" />
       <recent name="C:\Users\remig\Desktop\JiPP\Lab1\Lab_1" />
       <recent name="C:\Users\remig\Desktop" />
       <recent name="C:\Users\remig\Desktop\JiPP" />
-      <recent name="C:\Users\remig\Desktop\JiPP\" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.main.c (2)">
+  <component name="RunManager" selected="C/C++ File.main.c (1)">
     <configuration name="main.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="JiPP_I_NST_2023-2024" TARGET_NAME="main.c" CONFIG_NAME="main.c">
       <option name="sourceFile" value="Lab_1\Zad_22\main.c" />
       <method v="2">
@@ -181,8 +152,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.main.c (2)" />
         <item itemvalue="C/C++ File.main.c (1)" />
+        <item itemvalue="C/C++ File.main.c (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +171,7 @@
       <workItem from="1697455996264" duration="671000" />
       <workItem from="1697456731147" duration="129000" />
       <workItem from="1697458551694" duration="7005000" />
-      <workItem from="1697555884426" duration="2627000" />
+      <workItem from="1697555884426" duration="3796000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <option name="closed" value="true" />
@@ -226,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697465061158</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Another commit">
+      <option name="closed" value="true" />
+      <created>1697558600783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697558600783</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +233,8 @@
     <MESSAGE value="Second commit" />
     <MESSAGE value="3" />
     <MESSAGE value="12, 21, 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="12, 21, 23" />
+    <MESSAGE value="Another commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
