@@ -25,40 +25,50 @@ printf("-------------------- a*x^2+b*x+c = 0 ------------------------------\n\n"
 printf("Podaj a,b,c\n");
 ret = scanf("%le%le%le", &a, &b, &c);
 if(ret != 3)
-{
- printf("Blad przy wczytaniu\n");
- printf("Wczytane: a = %e b = %e c = %e\n", a, b, c);
- //To jest blad oprogramowania
- my_exit();
-}
+    {
+     printf("Blad przy wczytaniu\n");
+     printf("Wczytane: a = %e b = %e c = %e\n", a, b, c);
+     //To jest blad oprogramowania
+     my_exit();
+    }
 //Sprawdzenie a
 if(a == 0.0) //To nie jest dobry kod: a jest typu double!!!
-{
- //a == 0
- printf("To nie jest rownanie kwadratowe: a = 0.\n");
- //To jest blad uzytkownika przy wprowadzeniu danych
- my_exit();
-}
+    {
+     //a == 0
+     printf("To nie jest rownanie kwadratowe: a = 0.\n");
+     //To jest blad uzytkownika przy wprowadzeniu danych
+     my_exit();
+    }
 //Obliczenie D
 double D = -1.0; //to jest inicjalizacje zmiennej
 D = b*b-4.0*a*c;
-if(D < 0.0)
-{
- //brak pierwiastkow rzeczywistych
- printf("Brak pierwiastkow rzeczywistych: D = %e < 0.\n", D);
- my_return(); //To nie jest blad
-}
-//Obliczenie pierwiastkow
-double p1, p2, x1, x2;
-p1 = -b/(2.0*a);
-p2 = sqrt(D)/(2.0*a);
-x1 = p1+p2;
-x2 = p1-p2;
-printf("Rownanie kwadratowe: %lf *X*X + %lf *X + %lf = 0\n\n", a, b, c);
-printf("Pierwiastki: x1 = %e x2 = %e\n", x1, x2);
-printf("---------------------------------------------------------");
-my_return();
-return 0;
+    if(D < 0.0)
+    {
+     //brak pierwiastkow rzeczywistych
+     //printf("Brak pierwiastkow rzeczywistych: D = %e < 0.\n", D);
+     double r1, u1, r2, u2;
+
+     r1 = -b/(2*a);
+     u1 = sqrt(fabs(pow(b/(2*a),2)- c/a));
+     r2 = -b/(2*a);
+     u2 = -sqrt(fabs(pow(b/(2*a),2)- c/a));
+
+     printf("Rownanie kwadratowe: %lf *X*X + %lf *X + %lf = 0\n\n", a, b, c);
+     printf("Posiada rozwiazania w liczbach zespolonych, tj: r1 = %lf i u1 = %lf oraz r2 = %lf i u2 = %lf\n", r1, u1, r2, u2);
+
+     my_return(); //To nie jest blad
+    }
+//Obliczenie pierwiastkow w liczbach zespolonych
+    double p1, p2, x1, x2;
+    p1 = -b/(2.0*a);
+    p2 = sqrt(D)/(2.0*a);
+    x1 = p1+p2;
+    x2 = p1-p2;
+    printf("Rownanie kwadratowe: %lf *X*X + %lf *X + %lf = 0\n\n", a, b, c);
+    printf("Pierwiastki: x1 = %e x2 = %e\n", x1, x2);
+    printf("---------------------------------------------------------");
+    my_return();
+    return 0;
 }
 void my_exit()
 /*==============================================================================

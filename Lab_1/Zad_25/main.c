@@ -13,3 +13,26 @@ Obliczenie pola kwadratu, obwodu kwadratu itd. dla wszystkich figur zapisać w o
 funkcjach, które kolejno będą wywoływane w main().
 */
 
+double trojkat(double a, double b, double c) {
+
+}
+
+double kwadrat(double a, double b, double c, double d) {
+
+}
+
+double prostokat(double a, double b, double c, double d) {
+
+}
+
+double kolo(double r) {
+
+}
+
+
+int main() {
+
+    printf("Zadanie 25. Po wyborze figury program.\n");
+
+    return 0;
+}
