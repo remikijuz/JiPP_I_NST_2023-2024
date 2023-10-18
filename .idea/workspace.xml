@@ -20,7 +20,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d151c92-c0d8-4213-bd51-1e64bf0885b4" name="Changes" comment="Another commit again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/Zad_22/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Zad_22/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/Zad_12,21,23,24/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Zad_12,21,23,24/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab_1/Zad_25/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Zad_25/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/main.exe" afterDir="false" />
     </list>
@@ -69,32 +69,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/remig/CLionProjects/JiPP_I_NST_2023-2024/Lab_1/Zad_25&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
-    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/remig/CLionProjects/JiPP_I_NST_2023-2024/Lab_1/test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\remig\CLionProjects\JiPP_I_NST_2023-2024\Lab_1\test" />
       <recent name="C:\Users\remig\CLionProjects\JiPP_I_NST_2023-2024\Lab_1\Zad_25" />
       <recent name="C:\Users\remig\CLionProjects\JiPP_I_NST_2023-2024\Lab_1\Zad_22" />
     </key>
@@ -106,14 +107,8 @@
       <recent name="C:\Users\remig\Desktop\JiPP" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.main.c (2)">
-    <configuration name="main.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="JiPP_I_NST_2023-2024" TARGET_NAME="main.c" CONFIG_NAME="main.c">
-      <option name="sourceFile" value="Lab_1\Zad_22\main.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.c (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="JiPP_I_NST_2023-2024" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+  <component name="RunManager" selected="C/C++ File.main(1).c">
+    <configuration name="main(1).c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="JiPP_I_NST_2023-2024" TARGET_NAME="main.c" CONFIG_NAME="main(1).c">
       <option name="sourceFile" value="Lab_1\Zad_25\main.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
@@ -145,15 +140,8 @@
     </configuration>
     <list>
       <item itemvalue="C/C++ File.main.c" />
-      <item itemvalue="C/C++ File.main.c (1)" />
-      <item itemvalue="C/C++ File.main.c (2)" />
+      <item itemvalue="C/C++ File.main(1).c" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="C/C++ File.main.c (2)" />
-        <item itemvalue="C/C++ File.main.c (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -170,7 +158,7 @@
       <workItem from="1697456731147" duration="129000" />
       <workItem from="1697458551694" duration="7005000" />
       <workItem from="1697555884426" duration="3837000" />
-      <workItem from="1697620802843" duration="1717000" />
+      <workItem from="1697620802843" duration="5609000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <option name="closed" value="true" />
@@ -212,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697559759715</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Another commit again">
+      <option name="closed" value="true" />
+      <created>1697622540659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697622540659</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

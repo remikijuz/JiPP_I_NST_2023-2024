@@ -150,7 +150,7 @@ int main() {
                     r = s/p;
 
                     printf("Pole tego trójkąta to S = %.2lf. \n", s);
-                    printf("Promień tego trójkąta to R = %.2lf. \n", r);
+                    printf("Promień koła wpisanego w ten trójkąt to R = %.2lf. \n", r);
 
                 }
                 else {
